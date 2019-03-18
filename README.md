@@ -1,4 +1,2 @@
-# hello-world
-Iniciando no GitHub
-
-Esse é um teste de message commit change!
+# ProSun
+Este repositório contém as logos do ProSun e da Arsae-MG
